@@ -20,5 +20,6 @@ Using a percentile framework, rainfall conditions are evaluated via local climat
 - Comparative case study in a second region (e.g. Southeast Asia or South America)
 - Cross regional comparison of drought and extreme rainfall patterns
 - Summary statistics comparing climate risk profiles across regions
+- Further expanding on Chad for a greater comparison with the other country
 
 This repository is intended as a portfolio project demonstrating applied geospatial and climate data analysis.
