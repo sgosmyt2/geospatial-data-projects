@@ -1,0 +1,22 @@
+name: geodata
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - matplotlib
+  - pandas
+  - numpy
+  - jupyter
+  - geopandas
+  - rasterio
+  - xarray
+  - netcdf4
+  - seaborn
+  - geodatasets
+  - rioxarray
+  - cartopy
+  - pyftpdlib
+  - dask
+  - cdsapi
+  - eccodes
