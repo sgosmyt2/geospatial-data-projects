@@ -20,3 +20,6 @@ dependencies:
   - dask
   - cdsapi
   - eccodes
+  - pystac-client
+  - planetary-computer
+  - h5netcdf
